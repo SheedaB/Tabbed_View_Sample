@@ -22,7 +22,7 @@ class ThirdViewController: UIViewController{
     }
 
     // From UITableViewDataSource protocol.
-    func numberOfSectionsInTableView(tableView: UITableView) -> Int {
+    func numberOfSectionsInTableView(_ tableView: UITableView) -> Int {
         
         // We only have one section in our table view.
         return 1

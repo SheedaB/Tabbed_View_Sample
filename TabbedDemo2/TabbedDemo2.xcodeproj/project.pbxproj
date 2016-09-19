@@ -103,6 +103,7 @@
 					30FA315E1D77C03A00E2993E = {
 						CreatedOnToolsVersion = 7.3.1;
 						DevelopmentTeam = 3AG3YHAKP2;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -264,6 +265,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.strings.TabbedDemo2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -275,6 +277,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.strings.TabbedDemo2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -297,6 +300,7 @@
 				30FA31751D77C03A00E2993E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
